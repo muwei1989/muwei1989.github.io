@@ -36,3 +36,10 @@ table{
 td{
     width:33%;
 }
+#head{
+    width:100%;
+    height: 40px;
+    line-height: 40px;
+    background-color: green;
+    color: white;
+}
