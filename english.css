@@ -1,0 +1,25 @@
+#word{
+    font-weight: bold;
+    color:green;
+}
+#pron{
+    margin-top: 3px;
+    color:gray;
+}
+#mean{
+    margin-top: 5px;
+    color:green;
+}
+#tip{
+    display: none;
+}
+#tip,#root{
+    margin-top: 5px;
+    color:brown;
+}
+table{
+    width:99%;
+}
+td{
+    width:33%;
+}
