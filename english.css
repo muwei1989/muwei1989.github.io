@@ -45,12 +45,12 @@ td{
 }
 
 a,a:visited{
-    color:gray;
+    color:peru;
     margin: 5px;
     text-decoration: none;
 }
 a:hover{
-    color: gray;
+    color: peru;
     text-decoration:underline;
 }
 .sentence,.chinese{
