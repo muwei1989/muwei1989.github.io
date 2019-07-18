@@ -43,7 +43,8 @@ td{
     background-color: green;
     color: white;
 }
+
 .sentence,.chinese{
     margin: 5px;
-    color:gray;
+    color:black;
 }
