@@ -43,3 +43,17 @@ td{
     background-color: green;
     color: white;
 }
+
+a,a:visited{
+    color:gray;
+    margin: 5px;
+    text-decoration: none;
+}
+a:hover{
+    color: gray;
+    text-decoration:underline;
+}
+.sentence,.chinese{
+    margin: 5px;
+    color:peru;
+}
