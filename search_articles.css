@@ -1,45 +1,28 @@
-#word{
-    font-weight: bold;
-    color:green;
-    margin-top: 2px;
-    margin-left: 2px;
-    font-size: 16px;
+#units{
+    margin: 40px;
 }
-#pron{
-    margin-top: 3px;
-    color:gray;
-    margin-left: 2px;
-}
-#mean{
-    margin-top: 5px;
-    color:green;
-    margin-left: 2px;
-    margin-right: 2px;
-}
-#tip{
-    display: none;
-    margin-left: 2px;
-    margin-right: 2px;
-}
-#tip,#root{
-    margin-top: 5px;
-    color:brown;
-    margin-left: 2px;
-    margin-right: 2px;
-}
-#root{
-    margin-bottom: 2px;
-}
-table{
-    width:99%;
-}
-td{
-    width:33%;
-}
-#head{
-    width:100%;
+
+#unit{
+    width: 100%;
     height: 40px;
     line-height: 40px;
-    background-color: green;
+    text-align: center;
     color: white;
+    background-color: green;
+    font-weight: bold;
+}
+
+#word{
+    margin:10px;
+    font-size:18px;
+    font-weight:bold;
+    color:green;
+}
+
+a,a:visited{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color:brown;
 }
